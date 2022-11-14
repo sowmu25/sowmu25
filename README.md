@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sowmiya
 - 👀 I’m interested in Data Science, Machine Learning.
-- 🌱 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache, Sapark, Hadoop, SAS.
+- 🌱 I’m currently mastering Python, MySQL, Supervised and unsupervised algorithms, deep learning, computer vision, GCP, Docker and kubernetes.
 - 💞️ I’m looking to collaborate on all topics related to Data Science and Machine Learning.
 - 📫 You can reach me on my email id sowmu25@gmail.com
 
